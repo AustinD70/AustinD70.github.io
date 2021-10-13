@@ -176,7 +176,11 @@ a:visited{
 }
 
 /*small phones, tablet,s large smartphones*/
-@media {max-width: 728px} {
+
+@media (max-width: 720px) {
+
+
+
 .row{
     flex-direction: column;
 }
@@ -238,4 +242,5 @@ max-width: 360px;
 .footer__links{
     margin-bottom: 24px;
 }
+
 }
