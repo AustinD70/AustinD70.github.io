@@ -1,3 +1,2 @@
 # AustinD70.github.io
-just learnig
-This githubt stuff is confusing.
+Hi everyone, this is my 1st E-Portfolio attempt, any advice is appreciated!
